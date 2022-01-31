@@ -16,6 +16,6 @@ This simulation model goes with four steps:
 
 4) Counterfactual simulation and some scenario study. For the counterfactual simulation, we separately simulate six different NPIs (captured by these six targeted countries) in each targeted country. The result can be found in the '/result_data/all_conclusion.npy' and is plotted in the main page. For the scenario study, we generate three hypothetical countries, each with a low, medium, and high HTTCR. For each country, we also simulate three different scenarios, no NPIs and early NPIs, and late NPIs. Moreover, for the country with low HTTCR and the country with high HTTCR, we simulate the case under different social distancing implementation dates and generate the cumulative number of cases as a function of date. All simulated results can be found in the '/result_data/for parameter analysis' document.
 
-All data used in the paper are from public sources that are referenced in the paper.
+All data used in the paper are from public sources that are referenced in the paper. The run time for all other steps take less than 1 hour, except for step 3) that takes 3 hours and the counterfactual simualtio in the step 4) takes 2 hours on a normal laptop computer (i7-8550U CPU, 1.80Ghz with 16.0 GB RAM).
 
 In the '/codea and data' file, you can run 'Final_version_for_covid19_tosubmitNCS.ipynb' in python with loading the dataset "GSI_and_cases_track.csv' to get the above-mentioned result and figures. All figures are shown in the '/figures' file.
