@@ -18,4 +18,4 @@ This simulation model goes with four steps:
 
 All data used in the paper are from public sources that are referenced in the paper.
 
-In the 'codea and data' file, you can run 'Final_version_for_covid19_tosubmitNCS.ipynb' in python with loading the dataset "GSI_and_cases_track.csv' to get the above-mentioned result and figures. All figures are shown in the '/figures' file.
+In the '/codea and data' file, you can run 'Final_version_for_covid19_tosubmitNCS.ipynb' in python with loading the dataset "GSI_and_cases_track.csv' to get the above-mentioned result and figures. All figures are shown in the '/figures' file.
