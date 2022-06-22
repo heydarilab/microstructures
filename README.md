@@ -21,9 +21,9 @@ This simulation model goes with four steps:
 5) Pandemic simulation for the validation set of five countries(Austria, Hungary, Slovenia, Poland, and Slovakia). Apart from the parameter M, the mean reported contacts, we select other parameters of each country in the validation set following the same rule and data source used in the primary set. Because the survey-based result data for the mean reported contacts is unavailable in these countries, we approximate this parameter using the result of this study, https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005697. In short, this study used the result of the POLYMODE-type contact survey
 and demographic data to project the social contact matrices. Combining the social contact matrices and the age distribution (Data is available from https://population.un.org/wpp/dataquery/ ) of each country, we can estimate the mean reported contacts in the country.
 
-6) Calculate the average relative error of two clusters of countries.
+6) Calculate the average relative error of two clusters of countries, the primary set and validation set.
 
-7) Robustness check: Parameter analysis for M, the mean reported contacts, and beta, the transmission rate. The comparison between GSI and Social Interaction Trends, using Google Mobility Data.
+7) Robustness check for the primary set countries: Parameter analysis for M, the mean reported contacts, and beta, the transmission rate. The comparison between GSI and Social Interaction Trends, using Google Mobility Data.
   
 
 All data used in the paper are from public sources that are referenced in the paper.
