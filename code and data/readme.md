@@ -1,6 +1,6 @@
 There are three code documents here.
 
-# 'Final_version_for_covid19_tosubmitNCS_1st_version': 
+# 'Final_version_for_covid19_tosubmitNCS': 
 To simulate the countries in the primary set, Counterfactual Analysis, and Scenario-based Analysis, using the 'GSI_and_cases_track.csv' to describe the real data in GSI and cases.
 
 # 'Five_ new_countries_silmuation':
