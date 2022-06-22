@@ -1,12 +1,12 @@
 There are three code documents here.
 
-# 'Final_version_for_covid19_tosubmitNCS': 
+# 'Final_version_for_covid19_tosubmitNCS.ipynb': 
 To simulate the countries in the primary set, Counterfactual Analysis, and Scenario-based Analysis, using the 'GSI_and_cases_track.csv' to describe the real data in GSI and the number of confirmed cases.
 
-# 'Five_ new_countries_silmuation':
+# 'Five_ new_countries_silmuation.ipynb':
 To simulate the countries in the validation set, using the 'owid-covid-data.csv' to describe the real data in GSI and the number of confirmed cases.
 
-# ' NCS_robustness_check':
+# ' NCS_robustness_check.ipynb':
 There are four models here:
 1) Parameter analysis for M,  using the 'GSI_and_cases_track.csv' to describe the real data in GSI and the number of confirmed cases of primary set countries.
 2) Parameter analysis for transmission rate (beta),  using the 'GSI_and_cases_track.csv' to describe the real data in GSI and the number of confirmed cases of primary set countries.
