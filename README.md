@@ -1,5 +1,6 @@
 # Micro-level Social Structures and the Success of COVID-19 National Policies
-https://zenodo.org/badge/latestdoi/452821657
+.. image:: https://zenodo.org/badge/452821657.svg
+   :target: https://zenodo.org/badge/latestdoi/452821657
 
 ## WHAT IS IT?
 
