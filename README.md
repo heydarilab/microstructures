@@ -15,7 +15,7 @@ This simulation model goes with three steps:
 
 3) Pandemic simulation for countries in the same set. For each country, we run the simulation model in  60 days and plot the trajectory of each simulated result. 
 
-## What IS INCLUED:
+## WHAT IS INCLUED:
 1) We simulated the spread of COVID-19 for countries in the primary set (Germany, Italy, the Netherlands, Belgium). we combine the simulated trajectories and the real trajectories to show that our notional model is capable of replicating the relative success of COVID-19 social distancing policies. Afterward, we also run the simulation for a longer duration, 90 days and 120 days. The result of the simulation for each country can be found in the '/result_data/primary set countries' file.
 
 2) We simulated the spread of COVID-19 for countries in the validation set (Austria, Hungary, Slovenia, Poland, and Slovakia)). Apart from the parameter M, the mean reported contacts, we select other parameters of each country in the validation set following the same rule and data source used in the primary set. Because the survey-based result data for the mean reported contacts is unavailable in these countries, we approximate this parameter using the result of this study, https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005697. We combine the simulated trajectories and the real trajectories to show that our notional model is capable of replicating the relative success of COVID-19 social distancing policies. Afterward, we also run the simulation for a longer duration, 90 days and 120 days. The result of the simulation for each country can be found in the '/result_data/Validation set countries' file.
