@@ -3,10 +3,10 @@ There are three code documents here.
 # 'NCS_primary_format_v2.0.ipynb': 
 To simulate the countries in the primary set, Counterfactual Analysis, and Scenario-based Analysis, using the GSI_and_cases_track_primary_set.csv' to describe the real data in GSI and the number of confirmed cases.
 
-# 'Five_ new_countries_silmuation.ipynb':
+# 'NCS_validatiaon_format_v2.0.ipynb':
 To simulate the countries in the validation set, using the 'GSI_and_cases_track_validation_set.csv' to describe the real data in GSI and the number of confirmed cases.
 
-# ' NCS_robustness_check.ipynb':
+# 'NCS_robustness_check_format_v2.0.ipynb':
 There are four models here:
 1) (For countries in the primary set) Parameter analysis for M,  using the 'GSI_and_cases_track_primary_set.csv' to describe the real data in GSI and the number of confirmed cases of primary set countries.
 
